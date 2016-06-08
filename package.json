@@ -11,6 +11,7 @@
     "es-export-settings": "./lib/es-export-settings.js",
     "es-import-aliases": "./lib/es-import-aliases.js",
     "es-import-bulk": "./lib/es-import-bulk.js",
+    "es-import-bulk-flex": "./lib/es-import-bulk-flex.js",
     "es-import-mappings": "./lib/es-import-mappings.js",
     "es-import-settings": "./lib/es-import-settings.js"
   },
